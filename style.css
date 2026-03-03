@@ -13,7 +13,7 @@ p {
 }
 
 a {
-    color: #2e72a1;
+    color: black;
 }
 
 #logo, .project-img {
@@ -40,8 +40,8 @@ a {
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
-    color: #ffffff;
+    background-color: lightpink; /* Blue */
+    color: black;
 }
 
 .card {
@@ -55,11 +55,11 @@ a {
 
 .bg-3 {
     background-color: #000000; /* Black */
-    color: #ffffff;
+    color: pink;
 }
 
 .bg-4 {
-    background-color: #343a40; /* Dark Gray */
+    background-color: pink; /* Dark Gray */
     color: #fff;
 }
 
